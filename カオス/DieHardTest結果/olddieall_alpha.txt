@@ -1,0 +1,86 @@
+Test_Num:-32 : 010000000001011111 : Not_Randam
+Test_Num:-31 : 111111110111111111 : Not_Randam
+Test_Num:-30 : 010000000001111111 : Not_Randam
+Test_Num:-29 : 111111111101111111 : Not_Randam
+Test_Num:-28 : 010000000001111111 : Not_Randam
+Test_Num:-27 : 111111111111111111 : Randam
+Test_Num:-26 : 010000000001111111 : Not_Randam
+Test_Num:-25 : 111111111111111111 : Randam
+Test_Num:-24 : 010000000001011111 : Not_Randam
+Test_Num:-23 : 111111111111111111 : Randam
+Test_Num:-22 : 010000000001111111 : Not_Randam
+Test_Num:-21 : 111111111111111111 : Randam
+Test_Num:-20 : 010000000001111111 : Not_Randam
+Test_Num:-19 : 111111111111111111 : Randam
+Test_Num:-18 : 010000000001111111 : Not_Randam
+Test_Num:-17 : 111111111011111101 : Not_Randam
+Test_Num:-16 : 000000000000011111 : Not_Randam
+Test_Num:-15 : 111111111111111111 : Randam
+Test_Num:-14 : 010000000001111111 : Not_Randam
+Test_Num:-13 : 111111111111111111 : Randam
+Test_Num:-12 : 010000000001111111 : Not_Randam
+Test_Num:-11 : 111111111111111111 : Randam
+Test_Num:-10 : 010000000001111111 : Not_Randam
+Test_Num:-9 : 111111111111111111 : Randam
+Test_Num:-8 : 000000000001011111 : Not_Randam
+Test_Num:-7 : 111111111111111111 : Randam
+Test_Num:-6 : 010000000001111111 : Not_Randam
+Test_Num:-5 : 111111101111111111 : Not_Randam
+Test_Num:-4 : 010000000001111111 : Not_Randam
+Test_Num:-3 : 111111111111111111 : Randam
+Test_Num:-2 : 010000000001111111 : Not_Randam
+Test_Num:-1 : 111111011111111111 : Not_Randam
+Test_Num:0 : 000000000000000000 : Not_Randam
+Test_Num:1 : 111111111111111111 : Randam
+Test_Num:2 : 010000000001111111 : Not_Randam
+Test_Num:3 : 111111111111111111 : Randam
+Test_Num:4 : 010000000001111111 : Not_Randam
+Test_Num:5 : 111111111111111111 : Randam
+Test_Num:6 : 010000000001111111 : Not_Randam
+Test_Num:7 : 111111111111111111 : Randam
+Test_Num:8 : 010000000001011111 : Not_Randam
+Test_Num:9 : 111111000111111111 : Not_Randam
+Test_Num:10 : 010000000001111111 : Not_Randam
+Test_Num:11 : 111111101111111111 : Not_Randam
+Test_Num:12 : 010000000001111111 : Not_Randam
+Test_Num:13 : 111111111111111111 : Randam
+Test_Num:14 : 010000000001111111 : Not_Randam
+Test_Num:15 : 111111011111111111 : Not_Randam
+Test_Num:16 : 010000000000011111 : Not_Randam
+Test_Num:17 : 111111111111111111 : Randam
+Test_Num:18 : 000000000001111111 : Not_Randam
+Test_Num:19 : 111111111111111111 : Randam
+Test_Num:20 : 010000000001111111 : Not_Randam
+Test_Num:21 : 111111111111111111 : Randam
+Test_Num:22 : 010000000001111111 : Not_Randam
+Test_Num:23 : 111111111111111111 : Randam
+Test_Num:24 : 010000000000011111 : Not_Randam
+Test_Num:25 : 111111101111111111 : Not_Randam
+Test_Num:26 : 010000000001111111 : Not_Randam
+Test_Num:27 : 111111111111111111 : Randam
+Test_Num:28 : 010000000001011111 : Not_Randam
+Test_Num:29 : 111111111111111111 : Randam
+Test_Num:30 : 000000000001011111 : Not_Randam
+Test_Num:31 : 111111110111111111 : Not_Randam
+Test_Num:32 : 010000000001011111 : Not_Randam
+
+***ƒ_ƒCƒn[ƒhƒeƒXƒgŒ‹‰ÊÚ×***
+‘S‘Ì‚Ì‡Ši—¦F33% ‡ŠiŒÂ”F22
+Birthday Spacing Test‡Ši—¦F49% ‡ŠiŒÂ”F32
+Overlapping 5-Permutation Test‡Ši—¦F92% ‡ŠiŒÂ”F60
+Binary Rank Test for 31x31 matrices‡Ši—¦F49% ‡ŠiŒÂ”F32
+Binary Rank Test for 32x32 matrices‡Ši—¦F49% ‡ŠiŒÂ”F32
+Binary Rank Test for 6x8 matrices‡Ši—¦F49% ‡ŠiŒÂ”F32
+Bitstream Test‡Ši—¦F49% ‡ŠiŒÂ”F32
+OPSO Test‡Ši—¦F44% ‡ŠiŒÂ”F29
+OQSO Test‡Ši—¦F43% ‡ŠiŒÂ”F28
+DNA Test‡Ši—¦F44% ‡ŠiŒÂ”F29
+Count-The-1's Test on a stream of bytes‡Ši—¦F47% ‡ŠiŒÂ”F31
+Count-The-1's Test for specific bytes‡Ši—¦F47% ‡ŠiŒÂ”F31
+Parking Lot Test‡Ši—¦F93% ‡ŠiŒÂ”F61
+Minimum Distance Tes‡Ši—¦F83% ‡ŠiŒÂ”F54
+3DSpheres Test‡Ši—¦F98% ‡ŠiŒÂ”F64
+Sqeezed Test‡Ši—¦F98% ‡ŠiŒÂ”F64
+Overlapping Sum Test‡Ši—¦F98% ‡ŠiŒÂ”F64
+Runs Test‡Ši—¦F96% ‡ŠiŒÂ”F63
+Craps Test‡Ši—¦F98% ‡ŠiŒÂ”F64
